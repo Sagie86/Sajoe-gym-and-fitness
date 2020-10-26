@@ -1,0 +1,197 @@
+[
+   {
+      "pk":1,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb11114441cc",
+         "name":"Hero Gym Bag",
+         "description":"The ultimate fitness backpacks for carrying all your training kits",
+         "price":49.99,
+         "category":3,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122541244_10223357969198538_7758963013099652783_o.jpg?_nc_cat=111&ccb=2&_nc_sid=0debeb&_nc_ohc=-81DuJIgD2EAX-6eLdv&_nc_ht=scontent-arn2-1.xx&oh=da875c6fc324ef449c4a1576dcc2d616&oe=5FBA1AF4",
+         "image":"sajoe21.jpg"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb11114445cc",
+         "name":"Nutrend After Training protein",
+         "description":"Vanilla flavour Optimal distribution of Nutrients after workout",
+         "price":15.00,
+         "category":2,
+         "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharphttps://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122495242_10223357970598573_5443311649892561230_n.jpg?_nc_cat=107&ccb=2&_nc_sid=0debeb&_nc_ohc=HZ7FRSdhdwIAX-c1zoq&_nc_ht=scontent-arn2-1.xx&oh=a30c27cd31441e3a35418850cdf723e6&oe=5FB8851F",
+         "image":"sajoe20.jpg"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb11114448cc",
+         "name":"Elliptical Exercise Machine",
+         "description":"Home workout or home office. Workout at home on light weight perfomance machine",
+         "price":699,
+         "category":4,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122461037_10223357972198613_715026809202563188_n.jpg?_nc_cat=104&ccb=2&_nc_sid=0debeb&_nc_ohc=ptBd4JAjrb4AX_-hLwp&_nc_ht=scontent-arn2-1.xx&oh=7086efada9fafd33d9884773e71614a7&oe=5FB8D094",
+         "image":"sajoe19.jpg"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb12224443cc",
+         "name":"First Aid Box",
+         "description":"Portable First Aid box, easy to carry and essential for training accidents",
+         "price":69,
+         "category":5,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122473456_10223357974958682_1078395896239504072_n.jpg?_nc_cat=101&ccb=2&_nc_sid=0debeb&_nc_ohc=Jzi_tMld1KEAX-zftVx&_nc_ht=scontent-arn2-1.xx&oh=5dce52e5cb8bd4a6d91c5cf7b1f0a913&oe=5FBB4A64",
+         "image":"sajoe18.jpg"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb5011244354cc",
+         "name":"Revolution 5, sneaker junior, Black",
+         "description":"Sporty sneakers for leisure use, training and outdoor play",
+         "price":29.99,
+         "category":3,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122493503_10223357981358842_588795874421760826_n.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=DM2VyDsmDuEAX9QDaTq&_nc_ht=scontent-arn2-1.xx&oh=e6378f5ba02247a02f3ba97d6dc9f865&oe=5FBBBC04",
+         "image":"sajoe15.jpg"
+      }
+   },
+   {
+      "pk":6,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb22114578cc",
+         "name":"Nutrend After Training protein",
+         "description":"Chocolate flavour Optimal distribution of Nutrients after workout",
+         "price":11.99,
+         "category":2,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122474396_10223357976158712_4373358885475288910_n.jpg?_nc_cat=107&ccb=2&_nc_sid=0debeb&_nc_ohc=K7Y72UEp4uYAX_iD8xX&_nc_ht=scontent-arn2-1.xx&oh=e90a03c60ca135a3f2711d37ee26feb9&oe=5FBC29A3",
+         "image":"sajoe17.jpg"
+      }
+   },
+   {
+      "pk":7,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb11325554cc",
+         "name":"Water bottle",
+         "description":"Pendel hypyful bottle water for hydration during and after training ",
+         "price":5.00,
+         "category":3,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122496844_10223357964438419_5910663320624052270_n.jpg?_nc_cat=106&ccb=2&_nc_sid=0debeb&_nc_ohc=uiJneKpCC5wAX-kwdsb&_nc_ht=scontent-arn2-1.xx&oh=b2f65f5c4e9698093a4e3012b2d60c7a&oe=5FBA6D33",
+         "image":"sajoe25.png"
+      }
+   },
+   {
+      "pk":8,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb11223335cc",
+         "name":"Compression short Jock 17, senior suspension, Black",
+         "description":"Compression shorts for training, with suspensoar. With mesh inserts that breathe and transport moisture away in an efficient way.",
+         "price":26.99,
+         "category":1,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/cp0/122480748_10223357968238514_1309833571910424687_n.jpg?_nc_cat=107&ccb=2&_nc_sid=0debeb&_nc_ohc=ZSeuJdjNVHgAX_sEjvA&_nc_ht=scontent-arn2-1.xx&oh=ab805b8f6cb0b088f83cc1d13224d6e3&oe=5FB8CA85",
+         "image":"sajoe22.png"
+      }
+   },
+   {
+      "pk":9,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb1223345cc",
+         "name":"Compression short Jock 17, senior suspension, White",
+         "description":"Compression shorts for training, with suspensoar. With mesh inserts that breathe and transport moisture away in an efficient way.",
+         "price":26.99,
+         "category":1,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/cp0/122684882_10223357966398468_1147367177159526390_n.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=v931CcgrL7UAX_BCNBL&_nc_ht=scontent-arn2-1.xx&oh=5198a7a380959156acd1dc762a39ead3&oe=5FBAA34B",
+         "image":"sajoe23.png"
+      }
+   },
+   {
+      "pk":10,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb1226645cc",
+         "name":"Compression Socks",
+         "description":"Comfortable Compression Socks for training and pain relieve.",
+         "price":25.00,
+         "category":3,
+         "image_url":"https://scontent-arn2-2.xx.fbcdn.net/v/t1.0-9/cp0/122510158_10223357984318916_3627864979213772816_n.jpg?_nc_cat=108&ccb=2&_nc_sid=0debeb&_nc_ohc=R-HN6uA9niwAX_LzAJq&_nc_ht=scontent-arn2-2.xx&oh=0f93174387889832f2b4dc5bc4abec64&oe=5FB9BF49",
+         "image":"sajoe13.jpg"
+      }
+   },
+   {
+      "pk":11,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb5221761055cc",
+         "name":"Kettel Bell",
+         "description":"For home and office use. In different kilos and efficient for training",
+         "price":89.99,
+         "category":4,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122495243_10223357985998958_2829622129910025785_o.jpg?_nc_cat=111&ccb=2&_nc_sid=0debeb&_nc_ohc=01vg1qmugNUAX9iUEHg&_nc_ht=scontent-arn2-1.xx&oh=48b010a75f2217c433db49df84bb4327&oe=5FBCE30B",
+         "image":"sajoe12.jpg"
+      }
+   },
+   {
+      "pk":12,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb5002832069cc",
+         "name":"ASICS Women's GEL-Craze Cross Training Athletic Shoe",
+         "description":"Keep her moving in comfort all day ",
+         "price":29.99,
+         "category":3,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122495243_10223357983278890_5581576030525860159_n.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=uLNLFE8auUsAX9aaPzP&_nc_ht=scontent-arn2-1.xx&oh=0813aa54f66483da918b4f856d3b8d2d&oe=5FBB4D60",
+         "image":"sajoe14.jpg"
+      }
+   },
+   {
+      "pk":13,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb43502820147cc",
+         "name":"Training Speed Rope Pro",
+         "description":"Professional Speed Ropes set for exercise",
+         "price":20.00,
+         "category":3,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122501769_10223357978958782_6678822827014753241_n.jpg?_nc_cat=111&ccb=2&_nc_sid=0debeb&_nc_ohc=4tCLufaFc2QAX94wv7N&_nc_oc=AQmTrKF-ZJgIIn6_zq3tawNiQYPj3MV-YLRAzsAd8_GWsQgeO7K9hIikxgmSX2v3X-8&_nc_ht=scontent-arn2-1.xx&oh=8f456814e4bc62b7424f718a202a35b3&oe=5FBC9771",
+         "image":"sajoe16.jpg"
+      }
+   },
+   {
+      "pk":14,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb5002910572cc",
+         "name":"Plant Protein Plus",
+         "description":"Protein plus with vanilla flavour and extra vitamins, Nurishing",
+         "price":29.99,
+         "category":2,
+         "image_url":"https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/122471857_10223357965838454_4846798147581523635_n.jpg?_nc_cat=104&ccb=2&_nc_sid=0debeb&_nc_ohc=Da3kkqCoOTkAX8RXlIo&_nc_ht=scontent-arn2-1.xx&oh=fc6b0f003924be1eac18c3f7136efdf0&oe=5FBC0830",
+         "image":"sajoe24.png"
+      }
+   },
+   {
+      "pk":15,
+      "model":"products.product",
+      "fields":{
+         "sku":"bb0992990740cc",
+         "name":"Training Gloves",
+         "description":"Soft and comfortable, combed cotton heavier fabric for durability preshunk for lasting fit premium seaming reduces twisting tag free cotton washable imported",
+         "price":19.99,
+         "category":3,
+         "image_url":"https://scontent-arn2-2.xx.fbcdn.net/v/t1.0-9/122652352_10223357988439019_1932170505501532990_n.jpg?_nc_cat=105&ccb=2&_nc_sid=0debeb&_nc_ohc=HeLZlmf2GP4AX8yn9FW&_nc_ht=scontent-arn2-2.xx&oh=342b1b6e78d572155484bcaf7e68be53&oe=5FBBC9D0",
+         "image":"sajoe11.jpg"
+      }
+    }
+]
