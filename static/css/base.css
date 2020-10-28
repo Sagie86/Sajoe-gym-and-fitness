@@ -89,3 +89,18 @@ body {
         padding-top: 164px;
     }
 }
+
+.section {
+    text-align: center;
+    color: black;
+
+}
+
+.jumbotron {
+    opacity: 0.9;
+    background-color: gray;
+}
+
+.about-text {
+    color: white;
+}

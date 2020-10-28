@@ -11,8 +11,8 @@
       "pk":2,
       "model":"products.category",
       "fields":{
-         "name":"training_protein",
-         "friendly_name":"training protein" 
+         "name":"proteins",
+         "friendly_name":"proteins" 
       }
    },
    {

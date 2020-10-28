@@ -12,24 +12,25 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="our-gym-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Our Gym
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="gym-kits-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Gym Kits
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Become a member</a>
-                <a href="" class="dropdown-item">Group Training</a>
-                <a href="" class="dropdown-item">Opening Hours</a>
-                <a href="" class="dropdown-item">Price</a>
+                <a href="{% url 'products' %}?category=compression_shorts" class="dropdown-item">Compression Shorts</a>
+                <a href="{% url 'products' %}?category=proteins" class="dropdown-item">Proteins</a>
+                <a href="{% url 'products' %}?category=training_kits" class="dropdown-item">Training Kits</a>
+                <a href="{% url 'products' %}?category=compression_shorts,proteins,training_kits" class="dropdown-item">All Gym Kits</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="contact-us-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Contact Us
+                Equipments
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Email Us</a>
-                <a href="" class="dropdown-item">Visit Us</a>
+                <a href="{% url 'products' %}?category=machine" class="dropdown-item">Machine</a>
+                <a href="{% url 'products' %}?category=first_aid"class="dropdown-item">First aid</a>
+                <a href="{% url 'products' %}?category=machine,first_aid" class="dropdown-item">All Equipments</a>
             </div>
         </li>
     </ul>
