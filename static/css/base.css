@@ -110,3 +110,10 @@ body {
 .about-text {
     color: white;
 }
+
+/* Styles the update and remove link in the shopping bag */
+.btt-link,
+.update-link,
+.remove-item {
+    cursor: pointer;
+}
