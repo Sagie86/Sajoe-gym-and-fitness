@@ -51,6 +51,6 @@ This project is open for contribution,constructive corrections and any other ide
 This project is licenced under the MIT-License Copyright (c) 2020
 
 ## DEPLOYMENT :
-This project was deployed to Heroku through github, by first creating a Heroku app with the project name, where the project is going to be deployed to. Also i set up Amazon Web Services to host the media and static files. Then Heroku was signed in on the terminal of my project environment after a deployment environment was created.
+This project was deployed to Heroku through github, by first creating a Heroku app with the project name, where the project is going to be deployed to. Also i set up Amazon Web Services to host the media and static files.I installed dj_data_base_url and psycopg2-binary as a process of deploying to Heroku Then Heroku was signed in on the terminal of my project environment after a deployment environment was created.
 The project was then added, commited and pushed to github master branch, and then on the Heroku page, under the "deploy" section, i connect to my github page
 and then choosed this project name as the project to be deployed to Heroku through github. And i choosed "master" as a branch to be deployed.
