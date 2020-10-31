@@ -1,0 +1,1 @@
+web: gunicorn sajoe_gym.wsgi:application
