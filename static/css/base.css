@@ -187,3 +187,32 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
 }
+
+.links {
+    padding-bottom: 18px;
+}
+
+.links li a i {
+    width: 33px;
+    height: 33px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #ffffff;
+    background: #a9a9a9;
+    transition: all 0.35 ease-in-out;
+    -moz-transition: all 0.35 ease-in-out;
+    -webkit-transition: all 0.35 ease-in-out;
+    -o-transition: all 0.35 ease-in-out
+}
+
+.links li a i:hover {
+    background: #ffff00;
+}
+
+#footer-text {
+    padding: 30px;
+
+}

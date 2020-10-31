@@ -27,7 +27,6 @@ var style = {
 };
 var card = elements.create('card', {style: style});
 card.mount('#card-element');
-
 // code copied from stripe documentation
 // Handle realtime validation errors on the card element
 card.addEventListener('change', function (event) {
